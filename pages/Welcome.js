@@ -31,7 +31,7 @@ export default Welcome
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: "#EBF0E9",
+        backgroundColor: "#EBFOE9",
         alignItems: "center",
         justifyContent: "space-around",
         marginBottom: hp(15),
@@ -44,7 +44,6 @@ const styles = StyleSheet.create({
     },
     text: {
         fontSize: 45,
-        fontStyle: "italic",
         fontWeight: "bold",
         color: "#1F2315"
     }
